@@ -28,19 +28,6 @@
   <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,git,github,mysql,vscode" />
 </div>
 
----
-
-## 📌 Featured Projects
-### 👉 **1. Mobile To-Do List App (React Native)**  
-A clean, simple app for managing daily tasks.
-
-### 👉 **2. Personal Portfolio Website**  
-Showcase of my projects & skills.
-
-### 👉 **3. Java Algorithms Practice**  
-Solutions for LeetCode & class assignments.
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
