@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Henry 👋</h1>
+<p align="center">
+  <a href="https://github.com/henryPhan05">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Development+Student;Full-Stack+Developer+in+Progress;Always+learning+something+new!" />
+  </a>
+</p>
 
-<!--
-**HenryPhan05/henryPhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 2nd-year Software Development student at SAIT  
+- 💻 Passionate about building full-stack apps  
+- 🌱 Currently learning **Java, React Native, Node.js, and SQL**  
+- 🎯 Goal: Become a full-stack software engineer  
+- ☕ Fun fact: I debug with coffee ☕ + music 🎧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages:
+<div>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+</div>
+
+### Tools & Frameworks:
+<div>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,git,github,mysql,vscode" />
+</div>
+
+---
+
+## 📌 Featured Projects
+### 👉 **1. Mobile To-Do List App (React Native)**  
+A clean, simple app for managing daily tasks.
+
+### 👉 **2. Personal Portfolio Website**  
+Showcase of my projects & skills.
+
+### 👉 **3. Java Algorithms Practice**  
+Solutions for LeetCode & class assignments.
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=henryPhan05&show_icons=true&theme=tokyonight" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=henryPhan05&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/henry-phan">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! ✨  
+<br>
+⭐ Feel free to check out my projects or reach out anytime!
+</p>
