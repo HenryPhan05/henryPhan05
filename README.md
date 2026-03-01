@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🎓 2nd-year Software Development student at SAIT  
-- 💻 Passionate about building full-stack apps  
+- 💻 Passionate about building full-stack apps and webites
 - 🌱 Currently learning **Java, React Native, Node.js, and SQL**  
 - 🎯 Goal: Become a full-stack software engineer  
 - ☕ Fun fact: I debug with coffee ☕ + music 🎧
@@ -25,7 +25,7 @@
 
 ### Tools & Frameworks:
 <div>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,git,github,mysql,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,git,github,mysql,vscode,tailwind" />
 </div>
 
 
