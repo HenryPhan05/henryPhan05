@@ -25,7 +25,7 @@
 
 ### Tools & Frameworks:
 <div>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,git,github,mysql,vscode,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,reactNative,nodejs,git,github,mysql,vscode,tailwind" />
 </div>
 
 
