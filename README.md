@@ -45,6 +45,9 @@
   <a href="https://www.linkedin.com/in/henry-phan">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
+   <a href="https://portfolio-flax-two-3ter20efwn.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=vercel" />
+  </a>
 </p>
 
 ---
@@ -52,5 +55,5 @@
 <p align="center">
 ✨ Thanks for visiting my profile! ✨  
 <br>
-⭐ Feel free to check out my projects or reach out anytime!
+⭐ Explore my projects, check out my portfolio, or connect with me anytime
 </p>
