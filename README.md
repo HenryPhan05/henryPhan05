@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Henry Phan</h1>
 
 <h3 align="center">
-Software Development Student | Full-Stack Developer | Always Learning 🚀
+Software Development Student | Full-Stack Developer | Building Modern Web & Mobile Applications
 </h3>
 
 <p align="center">
   <a href="https://github.com/henryPhan05">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Development+Student;Full-Stack+Developer;Building+Modern+Web+%26+Mobile+Applications;Always+Learning+New+Technologies" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Student;Full-Stack+Developer;Building+Modern+Web+%26+Mobile+Applications;Always+Learning+New+Technologies" />
   </a>
 </p>
 
@@ -18,9 +18,9 @@ Software Development Student | Full-Stack Developer | Always Learning 🚀
 
 # 👨‍💻 About Me
 
-🎓 Software Development student at **SAIT**
+🎓 Software Development student at **SAIT (Southern Alberta Institute of Technology)**
 
-💻 Passionate about **Full-Stack Development**, cloud technologies, and building real-world applications.
+💻 Passionate about building scalable **Full-Stack Web & Mobile Applications** using modern technologies.
 
 🌱 Currently learning
 
@@ -29,69 +29,74 @@ Software Development Student | Full-Stack Developer | Always Learning 🚀
 - Prisma ORM
 - Azure Cloud
 - System Design
+- Software Architecture
 
 🎯 Career Goal
 
-Become a **Full-Stack Software Engineer** specializing in scalable web and mobile applications.
+Become a **Full-Stack Software Engineer** focused on building high-quality products that create real value.
 
 ⚡ Fun Fact
 
-> I believe every bug teaches something new... after several cups of coffee ☕.
+> I believe every bug teaches something new... after enough coffee ☕.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,mysql" />
 </p>
 
-### Frontend
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-### Backend
+## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+## Database & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="48"/>
 </p>
 
-### Cloud & DevOps
+## Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=azure,docker,git,github,npm" />
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,npm" />
 </p>
 
-### Tools
+## Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 📚 Floffy AI
+## 📚 Floffy AI
 
-AI-powered study management platform featuring
+An AI-powered study management platform that helps students organize their learning experience.
 
-- Task Management
-- Flashcards
-- Pomodoro Timer
-- Calendar
-- Social Feed
-- AI Assistant
+### Features
+
+- 📅 Calendar & Scheduling
+- ✅ Task Management
+- 🧠 Flashcards
+- ⏱️ Pomodoro Timer
+- 🤖 AI Assistant
+- 📝 Social Feed
+- 🎯 Goal Tracking
 
 **Tech Stack**
 
@@ -99,14 +104,17 @@ React • React Native • Express • Prisma • MySQL • Azure
 
 ---
 
-### 🏋️ fitMONKEY
+## 🏋️ fitMONKEY
 
-Fitness tracking web application
+Fitness tracking web application.
+
+### Features
 
 - Nutrition Tracking
 - Workout Logging
-- Goal Management
+- Daily Goals
 - Authentication
+- Responsive Dashboard
 
 **Tech Stack**
 
@@ -114,11 +122,13 @@ Next.js • Supabase • Tailwind CSS
 
 ---
 
-### 📖 Knowly
+## 📖 Knowly
 
-Study Planner mobile application
+A mobile study planner designed to help students stay organized.
 
-- Tasks
+### Features
+
+- Task Management
 - Deadlines
 - Progress Tracking
 - Dark Mode
@@ -129,51 +139,70 @@ React Native • Expo • Supabase
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=henryPhan05&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=henryPhan05&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=henryPhan05&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryPhan05&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryPhan05&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 GitHub Trophies
 
-<p align="left">
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=henryPhan05&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 
-<a href="https://www.linkedin.com/in/henry-phan">
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=henryPhan05&theme=tokyo-night"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/henry-phan/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://portfolio-flax-two-3ter20efwn.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel"/>
+<a href="https://portfolio-flax-two-3ter20efwn.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
 
 ---
 
-# 📫 Let's Connect
+# 💡 Interests
 
-I'm always interested in
-
-- Software Engineering
 - Full-Stack Development
-- Open Source
+- Software Engineering
 - Cloud Computing
-- AI-powered Applications
+- AI Applications
+- Mobile Development
+- Open Source
 
-Feel free to connect or collaborate on exciting projects!
+---
+
+# 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing software development, or learning something new.
+
+Feel free to connect with me on LinkedIn or explore my projects!
 
 ---
 
@@ -181,6 +210,6 @@ Feel free to connect or collaborate on exciting projects!
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my projects, don't forget to leave a ⭐ on them!
+If you enjoy my work, consider giving my repositories a ⭐.
 
 </p>
