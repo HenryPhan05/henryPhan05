@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henry Phan</h1>
 
 <h3 align="center">
-Software Development Student | Reaching To Be A Full-Stack Developer
+Software Development Student | Reaching To Be A Full-Stack Engineer
 </h3>
 
 <p align="center">
