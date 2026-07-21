@@ -164,24 +164,6 @@ A mobile study planner designed to help students organize tasks, deadlines, and 
 
 ---
 
-### 🧠 Floffy
-
-A study management platform that combines productivity tools, social features, and AI-assisted learning.
-
-**Key features**
-
-* Task and deadline management
-* Calendar scheduling
-* Flashcards
-* Pomodoro sessions
-* Study goals
-* Social posts and interactions
-* AI assistant integration
-
-**Tech stack**
-
-`React Native` `Node.js` `Express` `TypeScript` `Prisma` `MySQL` `Azure`
-
 <p>
   <a href="https://github.com/henryPhan05/Floffy">
     <img
