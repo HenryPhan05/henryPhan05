@@ -81,7 +81,7 @@ Software Development Student | Full-Stack Developer
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=mysql,firebase,supabase,redis"
+    src="https://skillicons.dev/icons?i=mysql,firebase,supabase,prisma"
     alt="Databases and services"
   />
 </p>
