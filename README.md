@@ -62,9 +62,12 @@ Software Development Student | Full-Stack Developer
 ### Frontend
 
 <p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
   <img
-    src="https://skillicons.dev/icons?i=react,nextjs,tailwind"
-    alt="Frontend technologies"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"
+    height="48"
+    alt="Three.js"
   />
 </p>
 
