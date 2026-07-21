@@ -84,26 +84,6 @@ Become a **Full-Stack Software Engineer** focused on building high-quality produ
 
 # 🚀 Featured Projects
 
-## 📚 Floffy AI
-
-An AI-powered study management platform that helps students organize their learning experience.
-
-### Features
-
-- 📅 Calendar & Scheduling
-- ✅ Task Management
-- 🧠 Flashcards
-- ⏱️ Pomodoro Timer
-- 🤖 AI Assistant
-- 📝 Social Feed
-- 🎯 Goal Tracking
-
-**Tech Stack**
-
-React • React Native • Express • Prisma • MySQL • Azure
-
----
-
 ## 🏋️ fitMONKEY
 
 Fitness tracking web application.
