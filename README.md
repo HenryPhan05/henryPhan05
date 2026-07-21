@@ -1,195 +1,252 @@
 <h1 align="center">Hi 👋, I'm Henry Phan</h1>
 
 <h3 align="center">
-Software Development Student | Full-Stack Developer | Building Modern Web & Mobile Applications
+Software Development Student | Full-Stack Developer
 </h3>
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Student+at+SAIT;Full-Stack+Web+%26+Mobile+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies"
+    alt="Typing introduction"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/henry-phan/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://portfolio-flax-two-3ter20efwn.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
   <a href="https://github.com/henryPhan05">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Student;Full-Stack+Developer;Building+Modern+Web+%26+Mobile+Applications;Always+Learning+New+Technologies" />
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=henryPhan05&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Software Development student at **SAIT**
+* 💻 Interested in full-stack web and mobile development
+* 🧩 Enjoy building practical applications that solve real problems
+* ☁️ Exploring cloud development, deployment, and scalable backend systems
+* 🌱 Currently improving my skills in **React Native, Node.js, Prisma, MySQL, and Azure**
+* 🎯 Working toward becoming a professional **Full-Stack Software Engineer**
+* ☕ Usually debugging with coffee and music
 
 ---
 
-# 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-🎓 Software Development student at **SAIT (Southern Alberta Institute of Technology)**
-
-💻 Passionate about building scalable **Full-Stack Web & Mobile Applications** using modern technologies.
-
-🌱 Currently learning
-
-- React Native
-- Node.js & Express
-- Prisma ORM
-- Azure Cloud
-- System Design
-- Software Architecture
-
-🎯 Career Goal
-
-Become a **Full-Stack Software Engineer** focused on building high-quality products that create real value.
-
-⚡ Fun Fact
-
-> I believe every bug teaches something new... after enough coffee ☕.
-
----
-
-# 🛠️ Tech Stack
-
-## Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,mysql" />
+  <img
+    src="https://skillicons.dev/icons?i=java,js,ts,python,html,css"
+    alt="Programming languages"
+  />
 </p>
 
-## Frontend
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,tailwind"
+    alt="Frontend technologies"
+  />
 </p>
 
-## Backend
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express"
+    alt="Backend technologies"
+  />
 </p>
 
-## Database & ORM
+### Databases and Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase" />
-  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" height="48"/>
+  <img
+    src="https://skillicons.dev/icons?i=mysql,firebase,supabase,redis"
+    alt="Databases and services"
+  />
 </p>
 
-## Cloud & DevOps
+### Cloud and DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,npm" />
+  <img
+    src="https://skillicons.dev/icons?i=azure,docker,git,github"
+    alt="Cloud and DevOps technologies"
+  />
 </p>
 
-## Development Tools
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+  <img
+    src="https://skillicons.dev/icons?i=vscode,postman,npm"
+    alt="Development tools"
+  />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏋️ fitMONKEY
+### 🏋️ fitMONKEY
 
-Fitness tracking web application.
+A full-stack fitness tracking web application that helps users manage their nutrition, workouts, and fitness goals.
 
-### Features
+**Key features**
 
-- Nutrition Tracking
-- Workout Logging
-- Daily Goals
-- Authentication
-- Responsive Dashboard
+* User authentication
+* Nutrition tracking
+* Workout logging
+* Daily fitness goals
+* Responsive dashboard
+* Food and exercise data integration
 
-**Tech Stack**
+**Tech stack**
 
-Next.js • Supabase • Tailwind CSS
-
----
-
-## 📖 Knowly
-
-A mobile study planner designed to help students stay organized.
-
-### Features
-
-- Task Management
-- Deadlines
-- Progress Tracking
-- Dark Mode
-
-**Tech Stack**
-
-React Native • Expo • Supabase
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=henryPhan05&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=henryPhan05&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryPhan05&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=henryPhan05&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=henryPhan05&theme=tokyo-night"/>
-</p>
-
----
-
-# 📫 Connect With Me
+`Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
 <p>
-
-<a href="https://www.linkedin.com/in/henry-phan/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://portfolio-flax-two-3ter20efwn.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel"/>
-</a>
-
+  <a href="https://github.com/henryPhan05/fitMonkey">
+    <img
+      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="fitMONKEY repository"
+    />
+  </a>
 </p>
 
 ---
 
-# 💡 Interests
+### 📖 Knowly
 
-- Full-Stack Development
-- Software Engineering
-- Cloud Computing
-- AI Applications
-- Mobile Development
-- Open Source
+A mobile study planner designed to help students organize tasks, deadlines, and study progress.
+
+**Key features**
+
+* Task creation and management
+* Deadline tracking
+* Task status filtering
+* User authentication
+* Dark mode
+* Mobile-friendly interface
+
+**Tech stack**
+
+`React Native` `Expo` `TypeScript` `Supabase`
+
+<p>
+  <a href="https://github.com/henryPhan05/study-planner-knowly">
+    <img
+      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Knowly repository"
+    />
+  </a>
+</p>
 
 ---
 
-# 🤝 Let's Connect
+### 🧠 Floffy
 
-I'm always open to collaborating on interesting projects, discussing software development, or learning something new.
+A study management platform that combines productivity tools, social features, and AI-assisted learning.
 
-Feel free to connect with me on LinkedIn or explore my projects!
+**Key features**
+
+* Task and deadline management
+* Calendar scheduling
+* Flashcards
+* Pomodoro sessions
+* Study goals
+* Social posts and interactions
+* AI assistant integration
+
+**Tech stack**
+
+`React Native` `Node.js` `Express` `TypeScript` `Prisma` `MySQL` `Azure`
+
+<p>
+  <a href="https://github.com/henryPhan05/Floffy">
+    <img
+      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Floffy repository"
+    />
+  </a>
+</p>
 
 ---
+
+## 📊 GitHub Dashboard
 
 <p align="center">
+  <img
+    src="./assets/github-stats.svg"
+    alt="Henry Phan GitHub statistics"
+    width="700"
+  />
+</p>
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <sub>
+    Statistics are generated automatically from the GitHub API using GitHub Actions.
+  </sub>
+</p>
 
-If you enjoy my work, consider giving my repositories a ⭐.
+---
 
+## 💡 Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack_Development-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mobile_Development-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend_Architecture-20232A?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Applications-20232A?style=flat-square" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/henry-phan/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Henry_Phan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://portfolio-flax-two-3ter20efwn.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-View_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my GitHub profile! 🚀
+</p>
+
+<p align="center">
+  Feel free to explore my repositories or connect with me on LinkedIn.
 </p>
