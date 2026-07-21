@@ -170,17 +170,6 @@ A mobile study planner designed to help students organize tasks, deadlines, and 
 
 ---
 
-<p>
-  <a href="https://github.com/henryPhan05/Floffy">
-    <img
-      src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Floffy repository"
-    />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Dashboard
 
 <p align="center">
