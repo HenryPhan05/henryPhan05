@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Henry Phan</h1>
 
 <h3 align="center">
@@ -210,4 +209,4 @@ A mobile study planner designed to help students organize tasks, deadlines, and 
 <p align="center">
   Feel free to explore my repositories or connect with me on LinkedIn.
 </p>
-```
+
