@@ -187,7 +187,7 @@ A mobile study planner designed to help students organize tasks, deadlines, and 
 <p align="center">
   <a href="https://www.linkedin.com/in/henry-phan/">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Henry_Phan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://www.linkedin.com/in/vinh-phan-cao-thanh-9a865733b/?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
