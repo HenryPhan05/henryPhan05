@@ -170,24 +170,6 @@ A mobile study planner designed to help students organize tasks, deadlines, and 
 
 ---
 
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img
-    src="./assets/github-stats.svg"
-    alt="Henry Phan GitHub statistics"
-    width="700"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    Statistics are generated automatically from the GitHub API using GitHub Actions.
-  </sub>
-</p>
-
----
-
 ## 💡 Areas of Interest
 
 <p>
