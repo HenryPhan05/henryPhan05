@@ -6,7 +6,7 @@ Software Engineer Student | Reaching To Be A Full-Stack Engineer
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Student+at+SAIT;Frontend+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Student+at+SAIT;Full-Stack+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies"
     alt="Typing introduction"
   />
 </p>
